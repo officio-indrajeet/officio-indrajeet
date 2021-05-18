@@ -1,7 +1,7 @@
 # Indrajeet kumar  
 
 ## Hi 👋, 
-I'm Indrajeet, I'm a software engineer at Oracle  👨‍💻 who is passionate about web technologies and open source. 
+I'm Indrajeet, I'm a software engineer at Oracle FSGBU 👨‍💻 who is passionate about web technologies and open source. 
 🏄‍♂️. 
 
 - 🔭 I’m currently working on web development
