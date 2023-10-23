@@ -1,8 +1,7 @@
 <h2 align="left">
  ## Hi 👋,
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-
 
 <!-- BANNER -->
 <img  src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/lofi_code.gif" />
