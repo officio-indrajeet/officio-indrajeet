@@ -5,22 +5,22 @@
 
 
 <!-- BANNER -->
-<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
+<img  src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/lofi_code.gif" />
 
 <!-- Activity Stats -->
 
 <!-- <p align="right">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sumanshekhar698/count.svg" />
+  <img src="https://profile-counter.glitch.me/officio-indrajeet/count.svg" />
 </p> -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=officio-indrajeet&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeet" /> </p>
 
 <!-- <p align="right">
-   <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/years/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/repos/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
+   <img src="https://badges.pufler.dev/visits/officio-indrajeet/officio-indrajeet"/>
+  <img src="https://badges.pufler.dev/years/officio-indrajeet"/>
+  <img src="https://badges.pufler.dev/repos/officio-indrajeet"/>
+  <img src="https://badges.pufler.dev/commits/monthly/officio-indrajeet" />
 </p> -->
 
 </br></br></br></br>
@@ -38,7 +38,7 @@ Some of the toys that I play with are Spring Framework and React.
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
-<!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
+<!-- <h2 align="center">Tech Stack <img src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/laptop.gif" width="50"></h2> -->
 
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -73,24 +73,22 @@ Some of the toys that I play with are Spring Framework and React.
   <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 <!-- <p align="right">
-<a href="https://dev.to/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumanshekhar698" height="30" width="40" /></a>
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suman_shekhar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanshekhar698" height="30" width="40" /></a>
-<a href="https://instagram.com/thenameissuman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameissuman_" height="30" width="40" /></a>
+<a href="https://dev.to/officio-indrajeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/officio-indrajeet/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="officio-indrajeet" height="30" width="40" /></a>
+<a href="https://twitter.com/indrajeet_kumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/officio-indrajeet/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indrajeet_kumar_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/indrajeet-1103" target="blank"><img align="center" src="https://raw.githubusercontent.com/officio-indrajeet/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajeet-1103" height="30" width="40" /></a>
 </p> -->
 
 <!-- <p align="center">
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thenameissuman_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/sumanshekhar698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/indrajeet-1103/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/indrajeet1103/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/officio-indrajeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p> -->
 
 <!--
 <p align="left">
 <a href = "https://linkedin.com/in/sumanshekhar698"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
-<a href="https://www.hackerrank.com/suman_sumanshek1" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
+<a href="https://leetcode.com/indra47/" ><img  src="https://raw.githubusercontent.com/officio-indrajeet/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
  <a href = "https://twitter.com/suman_shekhar_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p> -->
 
@@ -99,14 +97,8 @@ Some of the toys that I play with are Spring Framework and React.
 <i><h3 align="right">Connect with me</h3></i>
 
 <p align="right">
-  <a href="https://linkedin.com/in/sumanshekhar698">
+  <a href="https://linkedin.com/in/indrajeet-1103">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/suman_shekhar_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
   </a>
 </p>
 
@@ -118,8 +110,8 @@ Some of the toys that I play with are Spring Framework and React.
 <!-- <table>
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
-      <img src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true">
+      <img src="https://activity-graph.herokuapp.com/graph?username=officio-indrajeet&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=officio-indrajeet&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true">
     </td>
   </tr>
 </table>
@@ -157,7 +149,3 @@ Some of the toys that I play with are Spring Framework and React.
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
-(Be sure to click on it for the infinite scrolling version.) -->
-
-<!-- ReadMe Generator -->
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
