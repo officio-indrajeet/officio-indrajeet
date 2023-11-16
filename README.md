@@ -104,7 +104,7 @@ Some of the toys that I play with are Spring Framework and React.
 </p> -->
 
   <!-- SOCIAL LINKS -->
-
+<!--
 <i><h3 align="right">Connect with me</h3></i>
 
 <p align="right">
@@ -115,7 +115,7 @@ Some of the toys that I play with are Spring Framework and React.
 
 <div align="right">
 <a  href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" ></a>
- </div>
+ </div> -->
 
 <!-- GitHub Contribution Graph -->
 <!-- <table>
