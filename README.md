@@ -116,7 +116,7 @@ Some of the toys that I play with are Spring Framework and React.
 </table>
 <br> -->
 
-<br><br><br><br>
+<!--<br><br><br><br>-->
 <!-- GitHub Stats -->
 <table>
   <tr>
