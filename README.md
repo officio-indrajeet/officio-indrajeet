@@ -66,7 +66,9 @@ Some of the toys that I play with are Spring Framework and React.
   <a align="right" href="https://linkedin.com/in/indrajeet-1103">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-<a  align="right" href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" ></a>
+  <div align="right">
+<a href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" ></a>
+   </div>
   </p>
 
   <!-- :zap:  -->
