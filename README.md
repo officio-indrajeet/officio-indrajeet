@@ -61,6 +61,18 @@ Some of the toys that I play with are Spring Framework and React.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,nodejs,graphql,bootstrap,py,docker,netlify,git,stackoverflow,nginx,jenkins&perline=12" /></a>
+
+ <i><h3 align="right">Connect with me</h3></i>
+
+<p align="right">
+  <a href="https://linkedin.com/in/indrajeet-1103">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<div align="right">
+<a  href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" ></a>
+ </div>
   </p>
 
   <!-- :zap:  -->
