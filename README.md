@@ -1,10 +1,10 @@
 <h2 align="left">
  ## Hi 👋,
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">-->
 </h2>
 
 <!-- BANNER -->
-<img  src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/lofi_code.gif" />
+<!-- <img  src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/lofi_code.gif" /> -->
 
 <!-- Activity Stats -->
 
@@ -25,9 +25,9 @@
 </br></br></br></br>
 
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
-<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+<!--<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right"> -->
 
-📍I am Indrajeet from India, currently, I am living in Dublin and I do Full Stack development.
+📍I am Indrajeet from India, currently, I am living in Dublin, Ireland and I do Full Stack development.
 I enjoy learning new technologies and exploring tech.
 Some of the toys that I play with are Spring Framework and React.
 
