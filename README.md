@@ -13,7 +13,7 @@
   <img src="https://profile-counter.glitch.me/officio-indrajeet/count.svg" />
 </p> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=officio-indrajeet&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeet" /> </p>
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=officio-indrajeet&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeet" /> </p>-->
 
 <!-- <p align="right">
    <img src="https://badges.pufler.dev/visits/officio-indrajeet/officio-indrajeet"/>
