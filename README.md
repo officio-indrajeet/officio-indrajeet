@@ -9,7 +9,7 @@ I enjoy learning new technologies and exploring tech.
 
 
 - 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring the Spring framework family.
+- 🌱 I’m currently learning devops and exploring the Spring framework family.
 - 📫 Reach me @ officio.indrajeet@gmail.com
 - ⚡ Portfolio website : https://officio-indrajeet.netlify.app/🧊 😸
 
