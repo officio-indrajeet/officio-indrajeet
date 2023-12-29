@@ -1,31 +1,5 @@
-<h2 align="left">
- ## Hi 👋,
-  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">-->
-</h2>
 
-<!-- BANNER -->
-<!-- <img  src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/lofi_code.gif" /> -->
 
-<!-- Activity Stats -->
-
-<!-- <p align="right">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/officio-indrajeet/count.svg" />
-</p> -->
-
-<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=officio-indrajeet&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeet" /> </p>-->
-
-<!-- <p align="right">
-   <img src="https://badges.pufler.dev/visits/officio-indrajeet/officio-indrajeet"/>
-  <img src="https://badges.pufler.dev/years/officio-indrajeet"/>
-  <img src="https://badges.pufler.dev/repos/officio-indrajeet"/>
-  <img src="https://badges.pufler.dev/commits/monthly/officio-indrajeet" />
-</p> -->
-
-<!--</br></br></br></br>-->
-
-<!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
-<!--<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right"> -->
 
 <h1 align="center">Hi 👋, I'm Indrajeet Kumar</h1>
 <h3 align="center"> Software Development Engineer | Java Developer </h3>
@@ -37,8 +11,16 @@ I enjoy learning new technologies and exploring tech.
 - 🔭 I’m working on Building web apps using Java tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
 - 📫 Reach me @ officio.indrajeet@gmail.com
-- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
-- ![image](https://github.com/officio-indrajeet/officio-indrajeet/assets/72658529/e12b26c2-8846-4c9c-8264-2c15f0a922ff) Portfolio website : https://officio-indrajeet.netlify.app/
+- ⚡ Portfolio website : https://officio-indrajeet.netlify.app/🧊 😸
+
+<i><h3 align="left">Connect with me:</h3></i>
+<p align="left">
+<a href="https://www.instagram.com/indrajeet1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indrajeet1103" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/indrajeet-1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajeet1103" height="30" width="40" /></a>
+<a href="https://medium.com/@officio.indrajeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@officio.indrajeet" height="30" width="40" /></a>
+<a href="https://leetcode.com/indra47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="indra47" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" width="50" /></a>
+</p>
 
 
 <!-- Tech Stack -->
@@ -67,15 +49,7 @@ I enjoy learning new technologies and exploring tech.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,nodejs,graphql,bootstrap,py,docker,netlify,git,stackoverflow,nginx,jenkins&perline=12" /></a>
 
-  <i><h3 align="right">Connect with me</h3></i>
-  <p align="right">
-  <a href="https://linkedin.com/in/indrajeet-1103">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a></p>
-  <div align="right">
-<a href="https://www.buymeacoffee.com/indrajeet1v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" ></a>
-   </div>
-  </p>
+
 
   <!-- :zap:  -->
 
