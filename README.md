@@ -27,14 +27,19 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <!--<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right"> -->
 
-📍I am Indrajeet from India, currently, I am living in Dublin, Ireland and I do Full Stack development.
-I enjoy learning new technologies and exploring tech.
-Some of the toys that I play with are Spring Framework and React.
+<h1 align="center">Hi 👋, I'm Indrajeet Kumar</h1>
+<h3 align="center"> Software Development Engineer | Java Developer </h3>
+
+📍I am from India, currently, I am living in Dublin, Ireland and I do Full Stack development.
+I enjoy learning new technologies and exploring tech. 
+
 
 - 🔭 I’m working on Building web apps using Java tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://officio-indrajeet.netlify.app/
+- 📫 Reach me @ officio.indrajeet@gmail.com
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
+- ![image](https://github.com/officio-indrajeet/officio-indrajeet/assets/72658529/e12b26c2-8846-4c9c-8264-2c15f0a922ff) Portfolio website : https://officio-indrajeet.netlify.app/
+
 
 <!-- Tech Stack -->
 <!-- <h2 align="center">Tech Stack <img src="https://github.com/officio-indrajeet/officio-indrajeet/blob/main/assets/laptop.gif" width="50"></h2> -->
